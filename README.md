@@ -1,5 +1,5 @@
-[![codecov](https://codecov.io/gh/HYPHENATE/PermissionUTIL/branch/master/graph/badge.svg)](https://codecov.io/gh/HYPHENATE/PermissionUTIL)
-[![HYPHENATE](https://circleci.com/gh/HYPHENATE/PermissionUTIL.svg?style=svg&&circle-token=297c83f424a06b21dc3b4fa042318223464f67d7)](https://circleci.com/gh/HYPHENATE/PermissionUTIL)
+[![codecov](https://codecov.io/gh/HYPHENATE/PermissionUTILs/branch/master/graph/badge.svg)](https://codecov.io/gh/HYPHENATE/PermissionUTILs)
+[![HYPHENATE](https://circleci.com/gh/HYPHENATE/PermissionUTILs.svg?style=svg&&circle-token=297c83f424a06b21dc3b4fa042318223464f67d7)](https://circleci.com/gh/HYPHENATE/PermissionUTILs)
 
 # Permissions UTIL
 
@@ -10,7 +10,7 @@
 
 ## Part 1: Installation
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=HYPHENATE&repo=PermissionUTIL">
+<a href="https://githubsfdeploy.herokuapp.com?owner=HYPHENATE&repo=PermissionUTILs">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>

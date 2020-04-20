@@ -1,8 +1,8 @@
 {
-  "name": "salesforce-app",
+  "name": "permissions-utils",
   "private": true,
   "version": "1.0.0",
-  "description": "Salesforce App",
+  "description": "Permissions UTIL",
   "scripts": {
     "lint": "npm run lint:lwc",
     "lint:lwc": "eslint force-app/main/default/lwc",
